@@ -1,0 +1,40 @@
+.page-header{
+    font-family: "Open Sans";
+    font-weight: 200 !important;
+    line-height: 1.1;
+    color: inherit;
+    text-align: center;
+    border-bottom:none !important;
+  }
+
+
+.missao{
+      text-align: center;
+      font-weight: 500;
+    }
+
+    
+.p_intro {
+    text-align: justify;    
+    }
+
+    .img-svpm{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 700px;
+        height: 400px;
+            }
+    
+      
+    @media(max-width: 500px){
+    
+    .img-svpm{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: auto;
+        height: 350px;
+            }
+        }
+
